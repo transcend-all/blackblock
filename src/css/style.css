@@ -1,0 +1,8 @@
+.centered {
+  text-align: center;
+}
+
+#petsRow {
+  position: relative;
+  top: 800px;
+}
