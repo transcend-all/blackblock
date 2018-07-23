@@ -14,9 +14,9 @@
   "author": "Evan Lloyd Flint",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.4.0"
   },
   "dependencies": {
-    "zeppelin-solidity": "^1.8.0"
+    "zeppelin-solidity": "^1.10.0"
   }
 }
